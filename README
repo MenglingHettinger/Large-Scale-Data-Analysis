@@ -1,0 +1,9 @@
+twitterStreamText.py: the file used to exam whether each tweet contains hashtags or not, and if yes, extract the timestamps and hashtags.
+
+project.py: the source code to clean data obtained from the tweeter API. Please see the code and report for detail
+
+cluster.R: the R source code to do clustering analysis using both K means and Hierarchical clustering.
+
+project_web.html: the html code to display our results on the website.
+
+project_report.pdf: the project report explains the preprocess, analysis and result of this project in detail
